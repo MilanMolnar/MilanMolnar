@@ -9,9 +9,10 @@ My name Milán Molnár <a href="https://www.linkedin.com/in/mil%C3%A1n-moln%C3%A
 On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: and some that I made just for fun :tada:. <br>
 I am continuosly trying my best to improve in all fields of software development :weight_lifting_man:. <br>
 
-<img src="https://i.imgur.com/JV0KO8Y.gif" width="30%" height="30%" align="right" />
+
 
 ### Some things about me:
+<img src="https://i.imgur.com/5Zwp123.gif" width="30%" height="30%" align="right" />
 > 🔭 I’m currently working on a [Social media platform] with [Laravel] <img style="margin-top: 4px" alt="CC logo" width="20px" src="https://icon-library.com/images/3b726bf19d.png" /> .<br>
 > 🌱 Right now I am learning [Laravel] , [Lumen] and [Vue.js].<br>
 >:necktie: Currently looking for job as a Fullstack web developer.<br>
