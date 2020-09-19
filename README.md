@@ -1,7 +1,7 @@
 ### Hello there, 👋
 
 Welcome to my Github page :grey_exclamation: <br>
-My name Milán Molnár, I am currently studying at <b> [Codecool] </b>  🎓 to be a Fullstack web developer. <br>
+My name Milán Molnár, I am currently studying at <b> [Codecool] </b> to be a Fullstack web developer. <br>
 On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: and some that I made just for fun :tada:. <br>
 I am continuosly trying my best to improve in all fields of software development :weight_lifting_man:. <br>
 
@@ -15,9 +15,7 @@ I am continuosly trying my best to improve in all fields of software development
 > :joystick: My hobby is [Game] development with [Unity]. You check my games on this github page. <br>
 ### Have a great day :grey_exclamation:
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-
+[//]: #
    [Codecool]: <https://codecool.com/hu/>
    [Github]: <https://github.com/>
    [Bootstrap]: <https://getbootstrap.com/>
