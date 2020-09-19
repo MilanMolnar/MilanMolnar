@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Awesome-passed-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+<img border-radius="10px" src="https://i.imgur.com/g2zFjdh.gif" height="90%" width="300px" align="right" />
+
 ### Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img border-radius="10px" src="https://i.imgur.com/g2zFjdh.gif" height="90%" width="300px" align="right" />
+
 
 Welcome to my Github page :grey_exclamation: <br>
 My name Milán Molnár <a href="https://www.linkedin.com/in/mil%C3%A1n-moln%C3%A1r-4467411b4/">
