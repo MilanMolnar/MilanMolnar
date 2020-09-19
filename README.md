@@ -1,10 +1,10 @@
 ### Hello there, 👋
 
-Welcome to my Github page :grey_exclamation:
-My name Milán Molnár, I am currently studying at <b> [Codecool] </b>  🎓 to be a Fullstack web developer.
-On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: and some that I made just for fun :tada: .
-I am continuosly trying my best to improve in all fields of software development :weight_lifting_man: .
-
+Welcome to my Github page :grey_exclamation: <br>
+My name Milán Molnár, I am currently studying at <b> [Codecool] </b>  🎓 to be a Fullstack web developer. <br>
+On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: and some that I made just for fun :tada:. <br>
+I am continuosly trying my best to improve in all fields of software development :weight_lifting_man: .<br>
+<br>
 
 ##### Some things about me:
 - 🔭 I’m currently working on a Social media patform /w [Laravel]
