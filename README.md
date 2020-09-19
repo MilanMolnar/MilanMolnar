@@ -13,7 +13,7 @@ I am continuosly trying my best to improve in all fields of software development
 > 📫 Reach me at: molnarmilan.cc@gmail.com.<br>
 > :page_with_curl: You can check my CV [here].<br>
 > :joystick: My hobby is [Game] development with [Unity]. You check my games on this github page. <br>
-### Have a great day :grey_exclamation: :confetti_ball:
+### Have a great day :grey_exclamation:
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
