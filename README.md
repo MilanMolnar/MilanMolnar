@@ -24,7 +24,7 @@ I am continuosly trying my best to improve in all fields of software development
 > 📫 Reach me at: molnarmilan.cc@gmail.com.<br>
 > :page_with_curl: You can check my CV [here].<br>
 > :open_file_folder: For references look through my pinned projects, I worked hard on them :weight_lifting_man:. <br>
-> :joystick: My hobby is [Game] development with [Unity]. You check my games on this github page. <br>
+> :joystick: My hobby is [Game] development with [Unity]. You check my games on this page. <br>
 ### Have a great day :grey_exclamation:
 
 [//]: #
