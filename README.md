@@ -9,7 +9,7 @@ My name Milán Molnár <a href="https://www.linkedin.com/in/mil%C3%A1n-moln%C3%A
 On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: and some that I made just for fun :tada:. <br>
 I am continuosly trying my best to improve in all fields of software development :weight_lifting_man:. <br>
 
-<img border-radius="10px" src="https://i.imgur.com/5Zwp123.gif" width="30%" height="30%" align="right" />
+<img border-radius="10px" src="https://i.imgur.com/5Zwp123.gif" width="30%" height="27%" align="right" />
 
 ### Some things about me:
 
