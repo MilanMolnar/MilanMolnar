@@ -6,14 +6,14 @@ On this Github page you will find a lot of [Codecool] related projects :notebook
 I am continuosly trying my best to improve in all fields of software development :weight_lifting_man:. <br>
 
 ### Some things about me:
-> 🔭 I’m currently working on a [Social media platform] with [Laravel].
-> 🌱 Right now I am learning [Laravel], [Lumen] and [Vue.js].
->:necktie: Currently looking for job as a Fullstack web developer.
-> 💬 Ask me about anything, Im happy to respond.
-> 📫 Reach me at: molnarmilan.cc@gmail.com.
-> :page_with_curl: You can check my CV [here].
-> :joystick: My hobby is [Game] development with [Unity]. You check my games on this github page. 
-### Have a great day :grey_exclamation: :confetti_ball:
+> 🔭 I’m currently working on a [Social media platform] with [Laravel].<br>
+> 🌱 Right now I am learning [Laravel], [Lumen] and [Vue.js].<br>
+>:necktie: Currently looking for job as a Fullstack web developer.<br>
+> 💬 Ask me about anything, Im happy to respond.<br>
+> 📫 Reach me at: molnarmilan.cc@gmail.com.<br>
+> :page_with_curl: You can check my CV [here].<br>
+> :joystick: My hobby is [Game] development with [Unity]. You check my games on this github page. <br>
+### Have a great day :grey_exclamation: :confetti_ball:<br
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
