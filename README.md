@@ -11,7 +11,7 @@ My name Milán Molnár <a href="https://www.linkedin.com/in/mil%C3%A1n-moln%C3%A
   <img alt="linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>, I am currently studying at <b> [Codecool] <img style="margin-top: 4px" alt="CC logo" width="20px" src="https://scontent.fbud4-1.fna.fbcdn.net/v/t1.0-9/93209525_2697203353843882_8433511672626282496_n.png?_nc_cat=1&_nc_sid=85a577&_nc_ohc=vh2yVauYB2gAX_q0m8h&_nc_ht=scontent.fbud4-1.fna&oh=32fbdb89e5bb1e0841b1a1509edbb258&oe=5F8CA924" /> </b> <br>
 On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: <br>
-I am continuosly trying my best to improve in all fields of software development :weight_lifting_man: <br>
+I am continuously trying my best to improve in all fields of software development :weight_lifting_man: <br>
 
 
 
