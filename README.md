@@ -6,8 +6,8 @@ On this Github page you will find a lot of [Codecool] related projects :notebook
 I am continuosly trying my best to improve in all fields of software development :weight_lifting_man:. <br>
 
 ### Some things about me:
-> 🔭 I’m currently working on a [Social media platform] with [Laravel] <img style="margin-top: 4px" alt="CC logo" width="20px" src=" https://icon-library.com/images/3b726bf19d.png" /> .<br>
-> 🌱 Right now I am learning [Laravel]  <img style="margin-top: 4px" alt="CC logo" width="20px" src=" https://icon-library.com/images/3b726bf19d.png" />, [Lumen] and [Vue.js].<br>
+> 🔭 I’m currently working on a [Social media platform] with [Laravel] <img style="margin-top: 4px" alt="CC logo" width="20px" src="https://icon-library.com/images/3b726bf19d.png" /> .<br>
+> 🌱 Right now I am learning [Laravel]  <img style="margin-top: 4px" alt="CC logo" width="20px" src="https://icon-library.com/images/3b726bf19d.png" />, [Lumen] and [Vue.js].<br>
 >:necktie: Currently looking for job as a Fullstack web developer.<br>
 > 💬 Ask me about anything, Im happy to respond.<br>
 > 📫 Reach me at: molnarmilan.cc@gmail.com.<br>
