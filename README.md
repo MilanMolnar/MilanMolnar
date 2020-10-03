@@ -17,7 +17,7 @@ I am continuously trying my best to improve in all fields of software developmen
 
 ### Some things about me:
 
-> 🔭 I’m currently working on a [Social media platform] with [Laravel] <img style="margin-top: 4px" alt="CC logo" width="20px" src="https://icon-library.com/images/3b726bf19d.png" /> <br>
+> 🔭 I’m currently working on a [Social media platform] with [Laravel]  <br>
 > 🌱 Right now I am learning [Laravel] , [Lumen] and [Vue.js].<br>
 >:necktie: Currently looking for job as a Fullstack web developer.<br>
 > 💬 Ask me about anything, Im happy to respond.<br>
