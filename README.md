@@ -7,32 +7,27 @@
 
 
 Welcome to my Github page :grey_exclamation: <br>
-My name Milán Molnár <a href="https://www.linkedin.com/in/mil%C3%A1n-moln%C3%A1r-4467411b4/">
-  <img alt="linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>, I am currently studying at <b> [Codecool] </b> <br>
-On this Github page you will find a lot of [Codecool] related projects :notebook_with_decorative_cover: <br>
+My name Milán Molnár <a href="https://www.linkedin.com/in/mil%C3%A1n-moln%C3%A1r-4467411b4/"><img alt="linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>, I am currently working at <b> [Evosoft Hungary] </b> <br>
+On this Github page you will find a some learning or hobby related projects :notebook_with_decorative_cover: <br>
 I am continuously trying my best to improve in all fields of software development :weight_lifting_man: <br>
 
 
 
 ### Some things about me:
 
-> 🔭 I’m currently working on a [Social media platform] with [Laravel]  <br>
-> 🌱 Right now I am learning [Laravel] , [Lumen] and [Vue.js].<br>
->:necktie: Currently looking for job as a Fullstack web developer.<br>
-> 💬 Ask me about anything, Im happy to respond.<br>
+> 🌱 I’m currently Learning [React] with [TypeScript].<br>
+> 💬 Ask me about anything, I am happy to respond.<br>
 > 📫 Reach me at: molnarmilan.cc@gmail.com.<br>
-> :page_with_curl: You can check my CV [here].<br>
-> :open_file_folder: For references look through my pinned projects, I worked hard on them :weight_lifting_man: <br>
-> :joystick: My hobby is [Game] development with [Unity]. You check my games on this page. <br>
+> :joystick: My hobby is [Game] development with [Unity].<br>
 ### Have a great day :grey_exclamation:
 
 [//]: #
+   [Evosoft Hungary]: <https://www.evosoft.hu/>
    [Codecool]: <https://codecool.com/hu/>
    [Github]: <https://github.com/>
    [Bootstrap]: <https://getbootstrap.com/>
-   [jQuery]: <http://jquery.com>
-   [Laravel]: <https://laravel.com/>
+   [TypeScript]: <https://www.typescriptlang.org/>
+   [React]: <https://react.dev/>
    [Php]: <https://www.php.net/>
    [PHP storm]: <https://www.jetbrains.com/phpstorm/>
    [Vue.js]: <https://vuejs.org/>
